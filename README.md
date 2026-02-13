@@ -4,7 +4,7 @@ Full Stack Developer (MERN) | JavaScript Enthusiast | Building scalable web apps
 
 🚀 Growth Mindset
 
-BCA Graduate | MERN Stack Developer in Progress | Turning coffee into clean code | Future 8 LPA Developer
+BCA Graduate | MERN Stack Developer in Progress | Turning coffee into clean code
 
 💻 Clean & Simple
 
